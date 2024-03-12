@@ -50,3 +50,41 @@ After successful authentication, users can choose from various menu options to p
  - cstdlib, ctime: Standard Library headers for general-purpose functions and time functions.
  - cstdio: Standard Input/Output functions.
  - cstring: String manipulation functions.
+
+## Output
+
+
+![image](https://github.com/sahilkhan786000/EMpower/assets/95959159/0672e6c0-776b-42e9-9c43-0fd3556f9a4d)
+
+
+
+![image](https://github.com/sahilkhan786000/EMpower/assets/95959159/6a266643-03d0-42b4-8bb1-a2a8e6ef1d87)
+
+
+
+![image](https://github.com/sahilkhan786000/EMpower/assets/95959159/2d088e3f-12a8-460d-81c7-db766b6425e0)
+
+
+
+![image](https://github.com/sahilkhan786000/EMpower/assets/95959159/2deac923-7880-40ec-abab-14689008fa2e)
+
+
+
+![image](https://github.com/sahilkhan786000/EMpower/assets/95959159/2e4b886e-8fab-4945-9030-8caac96ed926)
+
+
+![image](https://github.com/sahilkhan786000/EMpower/assets/95959159/72900fb9-b960-442f-8cdd-ae75c70df28f)
+
+
+
+![image](https://github.com/sahilkhan786000/EMpower/assets/95959159/1957f33f-fb94-4327-9bc9-3d71a1db2ee4)
+
+
+
+
+
+
+
+
+
+
