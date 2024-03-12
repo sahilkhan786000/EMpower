@@ -1,5 +1,4 @@
-
-EMpower (Employee Management System) 
+# EMpower (Employee Management System) 
 This is a simple Employee Management System implemented in C++. The system provides a menu-based interface for users to perform various operations related to employee records.
 
 Features
